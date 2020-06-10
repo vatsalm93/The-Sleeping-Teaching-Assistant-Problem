@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1543606980 source:p:\sjsu\cmpe180c\180c\main.c
+	<pthread.h>
+	<time.h>
+	<unistd.h>
+	<semaphore.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<unistd.h>
+	<windows.h>
+
